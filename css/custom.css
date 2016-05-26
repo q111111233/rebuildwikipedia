@@ -13,14 +13,29 @@
 }
 
 .col-md-6{
-  background-color: green;
+  background-color: #f5fffa;
+  height: 608px;
 }
 
-.col-md-5{
+.col-md-4{
   background-color: lavender;
+  height: 608px;
 }
 
 .purple{
   background-color: purple;
 
+}
+
+.col-md-2 {
+  border: 3px dashed pink;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  list-style: none;
+  padding-left: 0;
 }
